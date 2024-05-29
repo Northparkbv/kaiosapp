@@ -1,0 +1,19 @@
+{
+  "version": "1",
+  "name": "Cookie Clicker Clone",
+  "launch_path": "/kaios-hosted-sample/index.html",
+  "description": "Cookie clicker but for KaiOS, expect to see updates soon",
+  "icons": {
+    "32": "/kaios-hosted-sample/images/logo32.png"
+  },
+  "developer": {
+    "name": "Alex D",
+    "url": "http://duckforipod.uk"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {},
+  "cursor": false
+}
